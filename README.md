@@ -1,6 +1,6 @@
 # OrthoNow — Developer Assignment Submission
 
-**Candidate:** [Your Name]
+**Candidate:** Kamini Kumari
 **Assignment:** Namoza Developer (Web Dev & Martech) — Position 1
 
 ## Contents
@@ -16,4 +16,5 @@
 4. The page swaps to a thank-you message without reloading, and `window.dataLayer` will show the `consultation_form_submitted` push in the console — type `dataLayer` in the console to inspect it.
 
 ## Loom walkthrough
-[Add your Loom link here]
+https://www.loom.com/share/4b4a3db542d540a0bd5203b310f9f5b0
+https://www.loom.com/share/2a236cf91fc349148100a3ba8e32b490
